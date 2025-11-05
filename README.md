@@ -27,8 +27,8 @@ You’ll build a **Create Account → Login** workflow where a user creates an a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Goddy-2024/moringaGENAI-capstone-project.git
-   cd moringaGENAI-capstone-project
+   git clone https://github.com/Emmanuelkemboi/MoringaAIcapstone-project.git
+      cd MoringaAIcapstone-project
 2. **Access the minimal working example that demonstrates state management in react:**
    ```bash
    code .
@@ -138,4 +138,4 @@ Scrimba React Course
 
 
  # License
-MIT License © 2025 Godswill
+MIT License © 2025 Emmanuel
